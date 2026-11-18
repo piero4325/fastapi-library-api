@@ -103,7 +103,6 @@ DB_USER=postgres
 DB_PASSWORD=твой_пароль
 ~~~
 
-Файл `.env` не попадает в git, он в `.gitignore`.
 
 ## Запуск
 
